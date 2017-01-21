@@ -2,6 +2,7 @@
 <config>
 	<modules>
 			<Practice_OneStepCheckout>
+				<active>false</active>
 				<codePool>local</codePool>
 				<depends>
 					<Mage_Sales/>
